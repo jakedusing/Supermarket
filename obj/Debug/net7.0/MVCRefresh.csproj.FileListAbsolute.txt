@@ -25,3 +25,4 @@ D:\C#\MVCRefresh\obj\Debug\net7.0\MVCRefresh.genruntimeconfig.cache
 D:\C#\MVCRefresh\obj\Debug\net7.0\ref\MVCRefresh.dll
 D:\C#\MVCRefresh\obj\Debug\net7.0\MVCRefresh.RazorAssemblyInfo.cache
 D:\C#\MVCRefresh\obj\Debug\net7.0\MVCRefresh.RazorAssemblyInfo.cs
+D:\C#\MVCRefresh\bin\Debug\net7.0\MVCRefresh.staticwebassets.runtime.json
