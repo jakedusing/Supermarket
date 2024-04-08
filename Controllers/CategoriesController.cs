@@ -18,5 +18,12 @@ namespace MVCRefresh.Controllers
             return View(category);
             
         }
+
+        [HttpPost]
+        public IActionResult Edit(Category category)
+        {
+            CategoriesRepository.UpdateCategory(category.CategoryId, category);
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
